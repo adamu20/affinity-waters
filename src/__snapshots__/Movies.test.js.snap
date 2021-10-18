@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Movies should render the Movies Component correctly 1`] = `
+<div
+  className="container"
+>
+  <ul
+    className="checkboxList"
+  />
+  <h1>
+    <span>
+      <span
+        aria-label="Popcorn emoji"
+        role="img"
+      >
+        🍿
+      </span>
+       
+      Now playing
+    </span>
+  </h1>
+  <div
+    className="title"
+  >
+    <div>
+      No movie showing now!
+    </div>
+  </div>
+  <div />
+</div>
+`;
